@@ -1,6 +1,6 @@
 <?php
 
-use HeartlandTechie\Inspire\Controllers\InspirationController;
+use Heartlandtechie\Inspire\Controllers\InspirationController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('inspire', InspirationController::class);

@@ -1,5 +1,5 @@
 {
-    "name": "heartlandtechie/inspire",
+    "name": "Heartlandtechie/inspire",
     "description": "Just testing things out",
     "autoload": {
         "psr-4": {
@@ -8,7 +8,7 @@
     },
     "authors": [
         {
-            "name": "HeartlandTechie",
+            "name": "Heartlandtechie",
             "email": "bradley.w.miller@gmail.com"
         }
     ],

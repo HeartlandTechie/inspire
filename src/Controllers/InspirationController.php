@@ -1,8 +1,8 @@
 <?php
-namespace HeartlandTechie\Inspire\Controllers;
+namespace Heartlandtechie\Inspire\Controllers;
 
 use Illuminate\Http\Request;
-use HeartlandTechie\Inspire\Inspire;
+use Heartlandtechie\Inspire\Inspire;
 
 class InspirationController
 {

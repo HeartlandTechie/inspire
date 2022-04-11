@@ -1,6 +1,6 @@
 <?php
 
-namespace HeartlandTechie\Inspire;
+namespace Heartlandtechie\Inspire;
 
 
 use Illuminate\Support\Facades\Http;

@@ -1,6 +1,6 @@
 <?php
 
-namespace HeartlandTechie\Inspire\Providers;
+namespace Heartlandtechie\Inspire\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
