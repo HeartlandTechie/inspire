@@ -1,0 +1,18 @@
+{
+    "name": "heartlandtechie/inspire",
+    "description": "Just testing things out",
+    "autoload": {
+        "psr-4": {
+            "Heartlandtechie\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HeartlandTechie",
+            "email": "bradley.w.miller@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
