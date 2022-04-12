@@ -15,6 +15,7 @@ Include repository in composer.json
         }
     ],`
 
+Now install via composer
 
 `composer require heartlandtechie/inspire 1.0.1`
 
