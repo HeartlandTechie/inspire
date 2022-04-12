@@ -6,6 +6,16 @@ A complete working example from the https://adevait.com/laravel/how-to-create-a-
 
 ## Installation
 
+Include repository in composer.json
+
+` "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/heartlandtechie/inspire"
+        }
+    ],`
+
+
 `composer require heartlandtechie/inspire 1.0.1`
 
 Include in the package service providers in config/app.php of your application:
