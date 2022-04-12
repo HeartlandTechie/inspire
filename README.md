@@ -8,12 +8,14 @@ A complete working example from the https://adevait.com/laravel/how-to-create-a-
 
 Include repository in composer.json
 
-` "repositories": [
+``` 
+"repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/heartlandtechie/inspire"
         }
-    ],`
+    ],
+```
 
 Now install via composer
 
